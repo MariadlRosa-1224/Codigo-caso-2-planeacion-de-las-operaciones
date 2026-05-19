@@ -1,8 +1,13 @@
 """
-Magic Cookies - Programador de Produccion
-==========================================
+
 Pontificia Universidad Javeriana - Planeacion de Operaciones 2026-10
 Caso 2: Programacion de la Produccion
+
+Juan David Cepeda Delgado 
+María de los Ángeles de la Rosa Ortiz
+Maria José Jiménez Jiménez
+Luis David Mantilla Vanoy
+Julio Andrés Uribe Fortich
 
 Heuristicas disponibles:
   1. EDD + Setup + SPT + Revenue  (greedy compuesto - original)
